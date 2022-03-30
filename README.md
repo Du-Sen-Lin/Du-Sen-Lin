@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, all 👋
+
+- 🔭I'm a brick mover.
+- 🌱 Dedicated to the research of defect dedetction, especially in the industrial field. Focus on appearance defect detection.
+- 👯 The daily work is algorithm development and project delivery.
+- 😄 Interests: defect dedetction, Digital Image Processing.
+
+[![Wood's GitHub stats](https://github-readme-stats.vercel.app/api?username=Du-Sen-Lin)](https://github.com/Du-Sen-Lin)
 
 <!--
 **Du-Sen-Lin/Du-Sen-Lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
