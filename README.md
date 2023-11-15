@@ -5,7 +5,9 @@
 - 👯 The daily work is algorithm development and project delivery.
 - 😄 Interests: defect detection, Digital Image Processing.
 
-[![Wood's GitHub stats](https://github-readme-stats.vercel.app/api?username=Du-Sen-Lin&count_private=true&show_icons=true&theme=dark)](https://github.com/Du-Sen-Lin)
+
+
+[![Wood's GitHub stats](https://github-readme-stats.vercel.app/api?username=Du-Sen-Lin&include_all_commits=true&count_private=true&show_icons=true&theme=dark)<img height="130px" src="https://github-readme-stats.vercel.app/api/top-langs?username=Du-Sen-Lin&hide_title=true&layout=compact&theme=graywhite&hide_border=true&bg_color=45,fffc79,73fa79,75f0db" alt="Most Used Languages">](https://github.com/Du-Sen-Lin)
 
 
 
@@ -19,9 +21,13 @@
 
 - Ind_Vision_Lite【Private】: Industrial vision software.
 
+- northglass 【Private】: north glass project.
 
 
 <!--
+
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
+
 **Du-Sen-Lin/Du-Sen-Lin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
